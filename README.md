@@ -1,6 +1,7 @@
 # Finance Tracker
 
 Finance Tracker is a modern, user-friendly web application designed to help individuals monitor income, track expenses, and manage personal budgets with ease. Built using React, the app provides a clean and responsive interface, making financial tracking accessible for everyone from students to professionals seeking better financial control.
+
 ---
 
 ## Demo
